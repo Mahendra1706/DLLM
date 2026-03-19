@@ -30,4 +30,4 @@ Start with the theory doc. It's written in plain English — no PhD required.
 
 if you have different flow or analogy that mismatched with explained here,please open issue
 
-source:reserch paper for core parts,llm for analogy and explanation
+source:reserch paper for core parts,AR-LLM for analogy and explanation
