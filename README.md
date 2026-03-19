@@ -10,7 +10,7 @@ A beginner-friendly resource for understanding and (eventually) building Diffusi
 
 | File | What it is |
 |---|---|
-| [`theory/diffusion.md`](theory/diffusion.md) | Theory doc — AR vs Diffusion, Markov chains, masking, dKV-Cache, Mercury speed |
+| [`Theory/diffusion.md`](Theory/diffusion.md) | Theory doc — AR vs Diffusion, Markov chains, masking, dKV-Cache, Mercury speed |
 
 Code is coming. See [CONTRIBUTING.md](CONTRIBUTING.md) for the roadmap.
 
@@ -28,6 +28,6 @@ Code is coming. See [CONTRIBUTING.md](CONTRIBUTING.md) for the roadmap.
 
 Start with the theory doc. It's written in plain English — no PhD required.
 
-if you have different flow or analogy that mismatched with explained here,please open issue
+If you have a different flow or analogy that conflicts with what's explained here, please open an issue.
 
 source:reserch paper for core parts,AR-LLM for analogy and explanation
